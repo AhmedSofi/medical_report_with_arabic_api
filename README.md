@@ -1,1 +1,1 @@
-medical_report_with_arabic_api
+medical_report_with_gemini_api_ar
